@@ -1,10 +1,17 @@
 
 @article{kam,
-title= {CleanupGAN: A generative network to enhance and correct query sketches for improving
-3D CAD model retrieval system},
-year={2024},
-status={Submitted to ACM SIGGRAPH},
-author={Kamalesh Kumar Kosalaraman and P. P. Kendre and D. Manilal and R. Muthuganapathy}
+title = {SketchCleanGAN: A generative network to enhance and correct query sketches for improving 3D CAD model retrieval systems},
+journal = {Computers & Graphics},
+volume = {123},
+pages = {104000},
+year = {2024},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2024.104000},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849324001353},
+status = {Published in Elsevier, Computer & Graphics},
+author = {Kamalesh Kumar Kosalaraman and Prasad Pralhad Kendre and Raghwani Dhaval Manilal and Ramanathan Muthuganapathy},
+keywords = {3D CAD models, Search and retrieval, Generative adversarial networks (GANs), Sketch completion, Sketch inpainting, CAD model sketches},
+abstract = {Given an input query, a search and retrieval system fetches relevant information from a dataset. In the Engineering domain, such a system is beneficial for tasks such as design reuse. A two-dimensional (2D) sketch is more conducive for an end user to give as a query than a three-dimensional (3D) object. Such query sketches, nevertheless, will inevitably contain defects like incomplete lines, mesh lines, overdrawn areas, missing areas, etc. Since a retrieval system’s results are only as good as the query, it is necessary to improve the query sketches. In this paper, the problem of transforming a defective CAD sketch into a defect-free sketch is addressed using Generative Adversarial Networks (GANs), which, to the best of our knowledge, has not been investigated before. We first create a dataset of 534 hand-drawn sketches by tracing the boundaries of images of CAD models. We then pair the corrected sketches with their corresponding defective sketches and use them for training a C-WGAN (Conditional Wasserstein Generative Adversarial Network), called SketchCleanGAN. We model the transformation from defective to defect-free sketch as a factorization of the defective input sketch and then translate it to the space of defect-free sketch. We propose a three-branch strategy to this problem. Ablation studies and comparisons with other state-of-the-art techniques demonstrate the efficacy of the proposed technique. Additionally, we also contribute to a dataset of around 58000 improved sketches using the proposed framework.}
 }
 
 @article{KENDRE202355,
