@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My work "SketchCADGAN" got published!
+"SketchCADGAN" accepted into EuroGraphics Symposium on 3D Object Retrieval 

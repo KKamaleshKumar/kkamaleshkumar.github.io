@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my masters in CS at UMass Amherst!
+Completed my undergrad at IIT Madras and started my masters in CS at UMass Amherst!

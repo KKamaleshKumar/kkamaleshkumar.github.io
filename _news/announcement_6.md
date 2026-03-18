@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-05-16
+date: 2026-03-15
 inline: true
 related_posts: false
 ---
 
-Started my research internship at Université Paris Dauphine, France.
+"RevovleRL" accepted into IEEE World Congress on Computational Intelligence 
